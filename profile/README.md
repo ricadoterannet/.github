@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we're - Hola somos RicardoTeran.Net</h1>
+<h1 align="center">Hi 👋, We're - Hola somos RicardoTeran.Net</h1>
 <h3 align="center">We are a team of consultants, developers and professionals willing to help you - somos un equipo de consultores, desarrolladores y profesionales dispuestos a ayudarte</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoterannet&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoterannet" /> </p>
@@ -31,4 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoterannet&show_icons=true&locale=en&layout=compact" alt="ricardoterannet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoterannet&show_icons=true&locale=en" alt="ricardoterannet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoterannet&" alt="ricardoterannet" /></p>
 
