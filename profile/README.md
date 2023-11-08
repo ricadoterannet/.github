@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm - Hola soy RicardoTeran.Net</h1>
+<h1 align="center">Hi 👋, we're - Hola somos RicardoTeran.Net</h1>
 <h3 align="center">We are a team of consultants, developers and professionals willing to help you - somos un equipo de consultores, desarrolladores y profesionales dispuestos a ayudarte</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoterannet&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoterannet" /> </p>
