@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **www.ricardoteran.net**
 
-- 📫 How to reach me **info@ricardoteran.net**
+- 📫 How to reach me **https://linktr.ee/ricardoterannet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
