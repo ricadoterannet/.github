@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ricardoterannet" target="blank"><img src="https://img.shields.io/twitter/follow/ricardoterannet?logo=twitter&style=for-the-badge" alt="ricardoterannet" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https:WWWW.ricardoteran.net" target="blank">
+- 👨‍💻 All of my projects are available at **<a href="https:WWWW.ricardoteran.net" target="blank">**
 
 - 📫 How to reach me **info@ricardoteran.net**
 
