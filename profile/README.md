@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, We're - Hola somos RicardoTeran.Net</h1>
 <h3 align="center">We are a team of consultants, developers and professionals willing to help you - somos un equipo de consultores, desarrolladores y profesionales dispuestos a ayudarte</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoterannet&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoterannet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoTeranNet&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoterannet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardorterans" alt="ricardoterannet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RicardoTeranNet" alt="ricardoterannet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ricardoterannet" target="blank"><img src="https://img.shields.io/twitter/follow/ricardoterannet?logo=twitter&style=for-the-badge" alt="ricardoterannet" /></a> </p>
 
